@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Light Mode -->
+    <color name="rosewater">#E8B4B8</color>
+    <color name="dusty_rose">#EED6D3</color>
+    <color name="coffee_pot">#A49393</color>
+    <color name="coffee_pot_2">#67595E</color>
+
+    <!-- Night Mode -->
+    <color name="midnight_blue">#41729F</color>
+    <color name="blue_gray">#5885AF</color>
+    <color name="dark_blue">#274472</color>
+    <color name="baby_blue">#C3E0E5</color>
+
+</resources>

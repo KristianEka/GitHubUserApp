@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GitHubUserApp</string>
+    <string name="user_name">User</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="username">Username</string>
+    <string name="name">Nama</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="followers_count">%d Followers</string>
+    <string name="following_count">%d Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="theme_changer">Theme Changer</string>
+    <string name="api_failed">Failed to load API</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="app_icon">App Icon</string>
+</resources>
