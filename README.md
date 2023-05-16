@@ -1,9 +1,29 @@
 # GitHubUserApp
 GithubUserApp Dicoding-BFAA (Belajar Fundamental Aplikasi Android)
 
+<br>
+
 > **Warning**
 > 
 > IF YOU ARE WORKING ON THE SAME SUBMISSION, PLEASE DO NOT COPY PASTE, JUST USE THIS AS A REFERENCE MATERIAL ONLY
+
+<br>
+
+## Made with
+- Kotlin
+- Android View
+- Retrofit (using Github API)
+- RecyclerView
+- ViewModel
+- LiveData
+- DataStore
+- Room
+- Glide
+- ViewPager2
+- CircleImageView
+
+
+<br>
 
 ## Screenshots
 | Home | Search | Detail | Favorite |
